@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110vh;
+    background-color: rgb(189, 225, 122);
+    margin-top: 10px;
+}
+
+.header{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+}
+
+.tenor-gif-embed{
+    display: flex;
+    padding: 15px 450px;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
+
+.text1{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: white;
+}
